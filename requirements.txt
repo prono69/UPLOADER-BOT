@@ -1,5 +1,6 @@
 numpy
-yt-dlp
+pytz
+yt-dlp[default,curl-cffi]
 Pillow
 aiohttp
 hachoir
